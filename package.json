@@ -4,7 +4,8 @@
   "description": "jestdemo",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "volume": "npx jest --testPathPattern=./volume.test.js"
   },
   "author": "",
   "license": "ISC",
